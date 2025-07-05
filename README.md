@@ -1,4 +1,3 @@
-# Secure-Password-Generator-main
 # Secure-Password-Generator
 # 🔐 Secure Password Generator
 
